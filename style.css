@@ -92,7 +92,7 @@ body {
 .about {
   border-radius: solid 5px 5px lightgrey;
   background-color: rgba(128, 128, 128, 0.493);
-  margin: 20px 200px;
+  margin: 20px 20px 20px 200px;
 }
 button {
   background-color: blue;
